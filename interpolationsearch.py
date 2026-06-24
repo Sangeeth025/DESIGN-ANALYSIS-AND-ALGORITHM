@@ -78,4 +78,4 @@ print(f"Array: {arr}")
 print(f"Searching for: {target}")
 print(f"Found at index: {idx}, Comparisons: {comps}")
 print()
-
+performance_analysis()
